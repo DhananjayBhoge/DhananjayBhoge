@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/DhananjayBhoge/DhananjayBhoge/blob/main/DhananjayDataAnalyst.JPG)]
+![MasterHead](https://github.com/DhananjayBhoge/DhananjayBhoge/blob/main/DhananjayDataAnalyst.JPG)
 <h1 align="center">Hi 👋, I'm Dhananjay Bhoge</h1>
 <h3 align="center">With 2.4 years of experience, I specialize in collecting, analyzing, and visualizing data to drive informed business decisions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
