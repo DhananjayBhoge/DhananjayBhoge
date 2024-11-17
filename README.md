@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋, I'm Dhananjay Bhoge
+
 
 <!--
-**DhananjayBhoge/DhananjayBhoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst | Expertise in Data Cleaning, Analysis & Visualization
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Data Analysis | SQL | PowerBI | Python | Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+E-Mail on: dhananjay13bhoge@gmail.com
+
+Connect with me:
+ https://www.linkedin.com/in/dhananjay-bhoge-a5885619b/
+
+Languages and Tools:
+mysql python python python
 -->
