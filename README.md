@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Dhananjay Bhoge
 
 
-<!--
+
 **Aspiring Data Analyst | Expertise in Data Cleaning, Analysis & Visualization
 
 🌱 I’m currently learning Data Analysis | SQL | PowerBI | Python | Excel
@@ -13,4 +13,4 @@ Connect with me:
 
 Languages and Tools:
 mysql python python python
--->
+
